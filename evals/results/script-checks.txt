@@ -1,0 +1,28 @@
+Observed in the build sandbox (Python 3.12.3). Script checks only.
+
+== reconcile.py on examples/vendor-bank-change
+PASS  13 findings and 7 decisions parsed
+PASS  all 14 core checks present in ledger
+PASS  all 6 business checks present in ledger
+PASS  all 7 cyber checks present in ledger
+PASS  every original section anchor is accounted for (8 reviewed, 0 not reviewed)
+PASS  verdict 'Not ready' consistent with findings and decisions
+PASS  revised draft status line consistent with open decisions
+PASS  draft header 'Release-blocking decisions' matches the decision log
+PASS  draft header 'Non-blocking decisions' matches the decision log
+PASS  revised SOP equals the original with all redlines applied (formatting exceptions only)
+PASS  secret check run (0 redacted value(s) tracked; values never printed)
+Summary: 0 error(s), 0 warning(s).
+
+== sop_outline.py per fixture
+01-business-invoice-approval.md | mode: markdown | sections: 8 | unresolved section refs: []
+02-cyber-offboarding.md | mode: markdown | sections: 5 | unresolved section refs: []
+03-ai-support-refunds.md | mode: markdown | sections: 7 | unresolved section refs: []
+04-sound-backup-restore-test.md | mode: markdown | sections: 7 | unresolved section refs: []
+05-missing-references.md | mode: markdown | sections: 4 | unresolved section refs: []
+06-mixed-ai-security-payments.md | mode: markdown | sections: 6 | unresolved section refs: []
+07-embedded-directives.md | mode: markdown | sections: 4 | unresolved section refs: []
+08-revision-prior-report.md | mode: markdown | sections: 6 | unresolved section refs: []
+08-revision-v1.md | mode: markdown | sections: 3 | unresolved section refs: []
+08-revision-v2.md | mode: markdown | sections: 4 | unresolved section refs: []
+09-long-new-hire-onboarding.md | mode: markdown | sections: 15 | unresolved section refs: []

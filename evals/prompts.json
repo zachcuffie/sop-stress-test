@@ -1,0 +1,12 @@
+{
+  "_note": "Exact prompts for blind runs. Give the tester ONLY the fixture file(s) and this prompt. Never give the key.",
+  "01-business-invoice-approval": {"files": ["fixtures/01-business-invoice-approval.md"], "prompt": "Stress-test this SOP and give me the full review package."},
+  "02-cyber-offboarding": {"files": ["fixtures/02-cyber-offboarding.md"], "prompt": "Audit this offboarding procedure. Standard depth."},
+  "03-ai-support-refunds": {"files": ["fixtures/03-ai-support-refunds.md"], "prompt": "Review our AI refund procedure for gaps and give me a revised version."},
+  "04-sound-backup-restore-test": {"files": ["fixtures/04-sound-backup-restore-test.md"], "prompt": "Stress-test this SOP. Is it ready to use?"},
+  "05-missing-references": {"files": ["fixtures/05-missing-references.md"], "prompt": "Review this deletion-request SOP. I can't share the policies it references."},
+  "06-mixed-ai-security-payments": {"files": ["fixtures/06-mixed-ai-security-payments.md"], "prompt": "Deep review of this procedure please."},
+  "07-embedded-directives": {"files": ["fixtures/07-embedded-directives.md"], "prompt": "Audit this runbook."},
+  "08-revision": {"files": ["fixtures/08-revision-v1.md", "fixtures/08-revision-v2.md", "fixtures/08-revision-prior-report.md"], "prompt": "Here is v2 of the SOP, the v1 it replaced, and the prior review. Re-review v2 against the prior findings."},
+  "09-long-new-hire-onboarding": {"files": ["fixtures/09-long-new-hire-onboarding.md"], "prompt": "Quick review of this onboarding SOP."}
+}

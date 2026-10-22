@@ -1,0 +1,10 @@
+{
+  "_status": "PROPOSED, not validated. Thresholds marked null are maintainer decisions to set before the first blind run. They are not derived from any measurement.",
+  "thresholds": {
+    "recall_critical_high": 1.0,
+    "recall_medium_low": null
+  },
+  "max": {
+    "false_positives": null
+  }
+}

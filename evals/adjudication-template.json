@@ -1,0 +1,27 @@
+{
+  "run": {
+    "skill_version": "0.1.0",
+    "fixture_id": "",
+    "run_by": "",
+    "session": "fresh chat with only the skill installed; no prior context",
+    "key_visible_to_runner": false,
+    "graded_by": "",
+    "second_adjudicator": "",
+    "date": "",
+    "mode_requested": "",
+    "usage_tokens": "not reported by host"
+  },
+  "matches": {"KEY-ITEM-ID": ["F-001"]},
+  "unkeyed": {"F-009": "valid-unkeyed | false-positive | duplicate | pending"},
+  "verdict_ok": true,
+  "lenses_ok": true,
+  "statuses_ok": null,
+  "behavior_ok": null,
+  "rubric": {
+    "evidence_quality": "per finding: supports | partial | does-not-support",
+    "location_accuracy": "per finding: correct | partial | wrong",
+    "fix_quality": "per redline: resolves | partial | does-not-resolve | introduces-new-issue",
+    "traceability": "reconcile.py exit code and error count",
+    "invented_org_facts": "list any invented thresholds, roles, deadlines, legal duties"
+  }
+}

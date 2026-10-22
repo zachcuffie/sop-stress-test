@@ -96,4 +96,4 @@ Synthetic fixtures cover business, cybersecurity, AI operations, mixed-domain, a
 Released under the MIT License.
 
 ## Credits
-Designed by Zach.
+Designed by Zach Cuffie

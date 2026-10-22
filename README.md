@@ -93,7 +93,7 @@ Tests that need the private answer keys are skipped. CI runs the suite on every 
 Synthetic fixtures cover business, cybersecurity, AI operations, mixed-domain, a sound document, missing references, embedded malicious instructions, a revision with a regression, and a longer document. Answer keys are held privately so the fixtures can be used for **blind** testing. Results will be published here labeled as blind or self-review, along with who graded them.
 
 ## License
-Not yet chosen. Until a license is added, all rights are reserved by the author.
+Released under the MIT License.
 
 ## Credits
 Designed by Zach.
